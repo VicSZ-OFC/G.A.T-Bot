@@ -50,7 +50,8 @@ module.exports = {
 |`` sendImageFromFile ``| _Envia uma imagem a partir de um caminho de arquivo._ |``sendImageFromFile``("caminho do arquivo");|
 ---
 ### SOBRE
-####  *BIBLIOTESCAS:*
+####  *BIBLIOTECAS:*
+
 - [<h3>Baileys</h3>](https://github.com/WhiskeySockets/Baileys)
     - _Alternativa que não requer que o Selenium ou qualquer outro navegador seja interface com o WhatsApp Web_
     - ``` npm install @WhiskeySockets/Baileys```
