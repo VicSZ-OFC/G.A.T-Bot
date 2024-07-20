@@ -1,13 +1,13 @@
 {
   "name": "g.a.t-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Automação de gestão e administração de tarefas para grupos de whatsapp",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.5",
     "pino": "^9.3.1",
